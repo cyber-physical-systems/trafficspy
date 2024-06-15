@@ -11,15 +11,3 @@ To explore the severity and extent of this privacy threat, we design a new facto
     <img src="pipeline.png">
     <p>The system pipeline of TrafficSpy.</p>
 </div>
-
-## Requirements
--
--
--
--
-
-## Code Introduction
--
--
--
--
