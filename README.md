@@ -7,3 +7,19 @@ People have been increasingly deploying the Internet of Things (IoT) devices to 
 
 To explore the severity and extent of this privacy threat, we design a new factorial hidden Markov model (FHMM)- based smart home network traffic disaggregator—TrafficSpy that can accurately disaggregate VPN-encrypted whole-house IoT network traffic data into individual IoT device network traffic data. We evaluate TrafficSpy using VPN network traffic data from three smart homes. We find that TrafficSpy can disaggregate VPN traffic data into individual IoT device data accurately. We also show that the disaggregated traffic traces can be further attacked by smart and adaptive adversaries and thus reveal user sensitive information. TrafficSpy represents a serious privacy threat, but also a potentially useful tool that provides important contextual information for smart home monitoring and automation.
 <br>
+<div align="center"> 
+    <img src="pipeline.png">
+    <p>The system pipeline of TrafficSpy.</p>
+</div>
+
+## Requirements
+-
+-
+-
+-
+
+## Code Introduction
+-
+-
+-
+-
